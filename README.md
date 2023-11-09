@@ -88,3 +88,9 @@ The react-toolkit will run a script called `start` and will tell you in the comm
 
 
 Congratulations, you have set up React JS and created your first app!
+
+## Markdown
+
+It is good practice to have a README file in your project, it will help with documentation.
+
+You can find markdown syntax [here](https://www.markdownguide.org/basic-syntax/)
